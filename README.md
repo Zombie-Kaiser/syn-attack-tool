@@ -1,0 +1,1 @@
+﻿﻿In this Python script, we created a simple text-based application that allows users to launch a basic SYN flood DOS (Denial of Service) attack on a target server or website. This is for educational purposes only and should not be used maliciously.
